@@ -4,9 +4,9 @@ This repo is where the high level plans and specs for potential Adventures in Ra
 
 Apps include:
 
-Ta - Thank you system
-Approach - Marketing page/contact system
-Muskox - Basic CMS system
+- Ta - Thank you system
+- Approach - Marketing page/contact system
+- Muskox - Basic CMS system
 
 Potential apps:
 
